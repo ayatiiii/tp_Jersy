@@ -1,1 +1,1 @@
-# tp_Jersy
+# TP-JaxRS-Jersey
